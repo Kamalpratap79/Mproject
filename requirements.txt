@@ -1,4 +1,7 @@
 numpy 
 pandas
 seaborn
- ## automaticalyy triggger setup.py file 
+matplotlib
+catboost
+xgboost==2.0.3
+#-e .  # automatically trigger setup.py
