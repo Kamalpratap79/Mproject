@@ -2,6 +2,8 @@ numpy
 pandas
 seaborn
 matplotlib
+scikit-learn
 catboost
 xgboost==2.0.3
+dill
 #-e .  # automatically trigger setup.py
