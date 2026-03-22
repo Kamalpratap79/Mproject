@@ -1,1 +1,1 @@
-- [x] Step 1: Edit model_trainer.py (add param={}, fix keys(), model names)
+2. [x] Edit src/components/model_trainer.py:
